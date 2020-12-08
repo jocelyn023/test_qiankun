@@ -1,4 +1,4 @@
-# qiankun-child
+# main
 
 ## Project setup
 ```
